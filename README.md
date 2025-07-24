@@ -15,6 +15,7 @@
     - Hábitos atómicos, James Clear (Spanish Version)
     - Learning SQL, Alen Beaulieu
     - Ansible for Devops, by Jeff Geerling
+    - Managing Kubernetes, Operating Kubernetes Clusters in the Real World, by Brendan Burns & Craig Tracey
 
 ## Reading next
     - Stack Engineer, Leadership Beyond the management track
