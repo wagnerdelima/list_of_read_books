@@ -24,5 +24,3 @@
 
 ## Courses
     - Google Certified Cybersecurity Professional (Completed)
-    - Beginner: Google Cloud Cybersecurity Certificate - Course 1 (Completed)
-    - 
